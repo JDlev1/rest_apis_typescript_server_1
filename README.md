@@ -24,7 +24,7 @@ Crear un archivo .env en la carpeta server con:
 
 PORT=3000
 DATABASE_URL=tu_bd_Externa
-FRONTEND_URL=tu_usuario
+FRONTEND_URL=tu_URL
 📦 Scripts importantes
 
 Backend:
